@@ -5,4 +5,7 @@ public class UserController{
  public User getUser(int a){
 	 System.out.println("Vamshi");
  return new User();}
+  public User deleteUser(int a){
+	 System.out.println("Vamshi");
+ return new User();}
 }
